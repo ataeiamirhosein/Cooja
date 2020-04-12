@@ -71,4 +71,4 @@ Finally, we can use  :~$ `make telosb` command to build a `main.exe` file for co
 
 #
 powered by [iotconet](https://www.github.com/iotconet)  
-https://www.iotco.net/en
+<https://www.iotco.net/en>
