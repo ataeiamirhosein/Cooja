@@ -5,7 +5,7 @@
 
 ![cooja schem](https://www.iotco.net/cooja.png)  
 
-## Report and Resault :  
+## Report and Result:  
 
 we have three file type in this simulation project which described below:  
 
