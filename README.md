@@ -1,6 +1,8 @@
 
 # Internet Of Things cooja simulation  
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ba61efe1525f41c5a8a67fafed997bc4)](https://app.codacy.com/manual/ataeiamirhosein/Cooja?utm_source=github.com&utm_medium=referral&utm_content=ataeiamirhosein/Cooja&utm_campaign=Badge_Grade_Dashboard)
+
 `cooja` is a simulator for tinyos that has GUI and you can see a snapshot of it on the below picture.  
 
 ![cooja schem](https://www.iotco.net/cooja.png)  
