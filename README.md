@@ -5,7 +5,7 @@
 
 `cooja` is a simulator for tinyos that has GUI and you can see a snapshot of it on the below picture.  
 
-![cooja schem](https://www.iotco.net/cooja.png)  
+![cooja schem](https://github.com/ataeiamirhosein/Cooja/blob/master/cooja.png)  
 
 ## Report and Result:  
 
@@ -44,14 +44,14 @@ each mote broadcast a message to other motes and demonestrate on (picture 1) tha
 - the led two with **red** light related to **mote one**.
 - the led three with **blue** light related to **mote three**.
 
-![screenshot from result of cooja](http://iotco.net/iothw1-1.jpg)  
+![screenshot from result of cooja](https://github.com/ataeiamirhosein/Cooja/blob/master/iothw1-1.jpg)  
 (picture 1)
 
 
 ## second result with cooja (one out of range)
 we can see when we change the position of one mote and set out of range in other motes the related led of out range mote is turned of
 
-![screenshot from result of cooja](http://iotco.net/iothw1-2.jpg)  
+![screenshot from result of cooja](https://github.com/ataeiamirhosein/Cooja/blob/master/iothw1-2.jpg)  
 (picture 2)
 
 ## cooja simulator
@@ -69,7 +69,7 @@ Finally, we can use  :~$ `make telosb` command to build a `main.exe` file for co
 
 ## telosb mote
 
-![telosb](http://iotco.net/telosb.png)  
+![telosb](https://github.com/ataeiamirhosein/Cooja/blob/master/telosb.png)  
 
 #
 powered by [iotconet](https://www.github.com/iotconet)  
